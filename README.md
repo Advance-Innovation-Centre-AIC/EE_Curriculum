@@ -1,7 +1,7 @@
 # **EE-curriculum**
-Courses content for EE's curriculum (Routine) 5 subjects 
+Courses content 2565 for EE's curriculum (Routine) 5 subjects 
 
-## **EE-59 3 subjects**
+## **[EE-59] 3 subjects**
 
 - [ปี4]- Computer OS
 
@@ -10,7 +10,7 @@ Courses content for EE's curriculum (Routine) 5 subjects
 - [ปี4] - Embedded System Design
 
 
-## **EMB-62 2 subjects**
+## **[EMB-62] 2 subjects**
 
 - [ปี2] - Applied Embedded Systems Laboratory 
 
