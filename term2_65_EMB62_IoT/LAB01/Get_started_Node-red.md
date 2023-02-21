@@ -1,11 +1,8 @@
-# Get started Node-red 
+ # **Outline**
 
-## **Outline**
+- ติดตั้ง  Node-red บน Windows
 
-## - ติดตั้ง  Node-red บน Windows
-
-## - ติดตั้ง  Node-red บน RaspberryPi
-
+- ติดตั้ง  Node-red บน RaspberryPi
 
 
 
