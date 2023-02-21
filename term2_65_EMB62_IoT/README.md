@@ -2,18 +2,11 @@
 
 ## **Outline** 
 
-
 ***Final part***
 
-1. node-red อ่าน data from nodemcu via MQTT protocol
-    - ใช้ nodeMCU เป็นตัวอ่าน data แล้วสตรีมข้อมูลขึ้นไปยัง MQTT
-    - ใช้ rpi/labtop ติดตั้ง node-red เพื่อ subscribe topic นั้นๆ
-2. node-red เก็บค่า data ลง csv file
-    - ใช้ node-red สร้าง node สำหรับการทำ data logger
-    - ใช้ node-red สร้าง Dashboard สำหรับแสดงข้อมูล
-3. node-red เก็บค่า data ลง database
-    - สร้าง SQL database
-    - ใช้ node-red บันทึกค่าที่ได้รับจาก MQTT ลงใน database ที่สร้างขึ้น
+LAB1:[แนะนำอุปกรณ์และติดตั้งโปรแกรม](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/tree/main/term2_65_EMB62_IoT/LAB01) 
+LAB2:[node-red control and deplay data from nodemcu via MQTT protocol](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/tree/main/term2_65_EMB62_IoT/LAB02)
+3. node-red save data to csv file
 4. การเตรียม Dataset
     - ทฤษฎีการทำ ML
     - การจัดเตรียมข้อมูลสำหรับ ML (Data cleansing, filling)
