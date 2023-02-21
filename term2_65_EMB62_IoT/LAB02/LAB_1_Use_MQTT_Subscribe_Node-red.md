@@ -69,7 +69,7 @@ Topic:“Test” โดยใช้ โปรแกรมของ Mosquito_pub 
 ตัวอย่าง command line
 
 ```
-    # mosquitto_pub -h [hostname or IP address] -t test -m "Hello!!"
+    #mosquitto_pub -h [hostname or IP address] -t test -m "Hello!!"
     mosquitto_pub -h 192.168.101.245 -t test -m  “Hello!!  I’m ชื่อนิสิต”
 ```
 
