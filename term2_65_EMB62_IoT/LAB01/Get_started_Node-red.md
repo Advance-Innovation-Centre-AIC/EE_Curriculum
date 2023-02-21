@@ -2,13 +2,14 @@
 
 ## **Outline**
 
-- ตั้งค่า Node-red บน Windows
+## - ติดตั้ง  Node-red บน Windows
 
-- ตั้งค่า Node-red บน RaspberryPi
+## - ติดตั้ง  Node-red บน RaspberryPi
 
 
 
-## **ตั้งค่า Node-red บน Windows**
+
+## **ติดตั้ง Node-red บน Windows**
 1. Download และ ติดตั้ง Nodejs ที่เว็บไซต์ [Node.js](https://nodejs.org/en/)
 
 
