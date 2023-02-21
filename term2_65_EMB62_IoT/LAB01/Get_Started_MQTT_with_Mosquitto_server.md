@@ -10,6 +10,7 @@
 
 ## **Setting is MQTT Broker** 
 
+
 ### **on windows**
 
 1. Download และ ติดตั้ง  link: https://mosquitto.org/download/
@@ -81,7 +82,7 @@
 
 
 
-## **Run  Subscribe client** 
+### **Run  Subscribe client** 
 
 
 1. เปิด tab command prompt ขึ้นมาใหม่ 1 tab ให้เข้าไปในโฟล์เดอร์ mosquitto ตาม path ที่เราติดตั้งโปรแกรม โดยใช้คำสั่ง cd 
@@ -106,7 +107,7 @@ Example run command line on Command prompt
 ![Fig: Display is information of mosquitto broker than  mosquitto_sub (Client) connected.](https://paper-attachments.dropboxusercontent.com/s_7788A459FC6A88558CA5CA14FB949EF0AF66791C1E6DA46173C45740A9B53F44_1674114180482_image.png)
 
 
-## **Run  Publish client** 
+### **Run  Publish client** 
 
 1. เปิด tab command prompt มาใหม่อีกหนึ่ง tab ให้เข้าไปในโฟล์เดอร์ mosquitto ตาม path ที่เราติดตั้งโปรแกรม โดยใช้คำสั่ง cd 
 
