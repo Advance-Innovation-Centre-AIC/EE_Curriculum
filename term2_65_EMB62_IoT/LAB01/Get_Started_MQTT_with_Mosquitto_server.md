@@ -1,7 +1,17 @@
 # Get Started MQTT with Mosquitto server
 
-# Setting is MQTT Broker 
-## on windows
+# **Outline**
+
+- ติดตั้ง  Node-red บน Windows
+
+- ติดตั้ง  Node-red บน RaspberryPi
+
+
+
+
+## Setting is MQTT Broker 
+
+### on windows
 1. Download และ ติดตั้ง  link: https://mosquitto.org/download/
 2. เปิด Command promp โดย ไปที่ Search >> พิมพ์ cmd >> เลือก Run as administrator
 3. หลังจากเปิด CMD tab ให้ตรวจสอบ IP คอมพิวเตอร์ของเรา โดยใช้คำสั่ง ipconfig และดูค่าIP Wi-Fi ที่ IPv4 Address แล้วจดบันทึกไว้
