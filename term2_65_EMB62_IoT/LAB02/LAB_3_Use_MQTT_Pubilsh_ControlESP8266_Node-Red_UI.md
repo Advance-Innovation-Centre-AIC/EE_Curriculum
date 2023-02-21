@@ -55,7 +55,7 @@ Broker
 
 4. ทดลองสร้างโปรแกรม ไปที่ file >>new >>ใส่ code >>แก้ไขชื่อ ssid และ ip และ password เป็นของตัวเองแล้วทดลอง upload โปรแกรมลงบอร์ด
 
-Downloaf Arduino Code >>[mqtt_node_red_concrol_LED](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/tree/main/term2_65_EMB62_IoT/LAB02/arduino%20code)
+Downloaf Arduino Code >>[mqtt_concrol_LED_with_node_red.ino](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/tree/main/term2_65_EMB62_IoT/LAB02/arduino%20code)
 
 
 บันทึกผล: ภาพผลการรัน code หน้า seriall monitor
