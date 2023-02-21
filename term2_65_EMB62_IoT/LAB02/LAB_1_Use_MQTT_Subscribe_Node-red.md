@@ -147,7 +147,7 @@ Topic:“Test” โดยใช้ โปรแกรมของ Mosquito_pub 
 
 
 
-10. คลิ๊ก Deploy เพื่อให้ Node-red ทำงานตามโปรแกรมที่ได้ตั้งค่าไว้
+7. คลิ๊ก Deploy เพื่อให้ Node-red ทำงานตามโปรแกรมที่ได้ตั้งค่าไว้
 
 
 บันทึกผล: ภาพการตั้งค่า node-red เป็น Subscribe ของตัวเองดังตัวอย่างขั้นตอนที่ 3 
@@ -185,6 +185,7 @@ Topic:“Test” โดยใช้ โปรแกรมของ Mosquito_pub 
 ----------
 
 [1]Ref: http://www.steves-internet-guide.com/using-arduino-pubsub-mqtt-client/
+
 [2]Ref: https://randomnerdtutorials.com/esp8266-and-node-red-with-mqtt/
 
 
