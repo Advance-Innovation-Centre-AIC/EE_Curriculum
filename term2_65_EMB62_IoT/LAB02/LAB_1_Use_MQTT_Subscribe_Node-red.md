@@ -89,14 +89,17 @@ Topic:“Test” โดยใช้ โปรแกรมของ Mosquito_pub 
                      *ภาพผลการรัน Mosquiito Broker*
 
 
-
 ----------
 
 
-## **Use Node-red Subscrilbe**
-1. เปิดหน้า CMD ขึ้นมาใหม่อีก 1 teb และใช้คำสั่ง เปิด node-red 
-    node-red start 
 
+## **Use Node-red Subscrilbe**
+
+1. เปิดหน้า CMD ขึ้นมาใหม่อีก 1 teb และใช้คำสั่ง เปิด node-red 
+
+```
+    node-red start 
+```
 
 2. ทดลองสร้าง node-red เป็น Subscribe โดย ไปที่แถบทางซ้ายมือ >> network >> เลือก mqtt in node
 
@@ -114,6 +117,7 @@ Topic:“Test” โดยใช้ โปรแกรมของ Mosquito_pub 
 
 
 ![Fig: ตัวอย่างการตั้งค่า Server](https://paper-attachments.dropboxusercontent.com/s_DA7F9304F7FD16C94028EC84CCC3FE7AF8CB3BE2BB9AC49BF08A86122CCAFA23_1675391744627_image.png)
+
 ![Fig: ตัวอย่างการตั้งค่า MQTT in node](https://paper-attachments.dropboxusercontent.com/s_DA7F9304F7FD16C94028EC84CCC3FE7AF8CB3BE2BB9AC49BF08A86122CCAFA23_1675392598210_image.png)
 
 
@@ -149,9 +153,7 @@ Topic:“Test” โดยใช้ โปรแกรมของ Mosquito_pub 
 
 ----------
 
-
                                                           *รูปภาพการตั้งค่า mqtt in node ของ node-red* 
-
 
 
 ----------
