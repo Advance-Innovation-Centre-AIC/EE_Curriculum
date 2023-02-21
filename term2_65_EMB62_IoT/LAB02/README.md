@@ -12,6 +12,7 @@
 
 2. [LAB_2_Use_MQTT_Publish_Node-red](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/blob/main/term2_65_EMB62_IoT/LAB02/LAB_2_Use_MQTT_Publish_Node-red.md)
 
+3. [LAB_3_Use_MQTT_Pubilsh_ControlESP8266_Node-Red_U](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/blob/main/term2_65_EMB62_IoT/LAB02/LAB_3_Use_MQTT_Pubilsh_ControlESP8266_Node-Red_UI.md)
 
 
 ## **Hardware**
