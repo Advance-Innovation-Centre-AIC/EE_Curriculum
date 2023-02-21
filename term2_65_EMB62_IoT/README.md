@@ -24,7 +24,7 @@ lab แบ่งออกเป็น 2 part คือ
 [เพิ่มเติม:การเก็บค่าลง Database](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/tree/main/term2_65_EMB62_IoT/LAB04)
 
 
-## **Part2: ML **
+## **Part2: ML**
 
 LAB4: การเตรียม Dataset
   
