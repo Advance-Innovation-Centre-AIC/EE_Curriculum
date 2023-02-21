@@ -1,15 +1,18 @@
 # **EMB-62-IoT**
 
-***Final part***
+## ***Final part***
 
-Overview
+## Overview
 
 lab แบ่งออกเป็น 2 part คือ 
 
-Part1 การใช้ Node-red รับข้อมูลและแสดงผลสื่อสารกันผ่าน MQTT Protocol
-flow diagram part MQTT Protocol 
-|  NodeMCU or PC or Rpi  |   |   PC or Rpi    |   | NodeMCU or PC 
-|     Sensor MQTT Pub    |-->|  MQTT Broker   |-->| MQTT sub
+## **Part1: การใช้ Node-red รับข้อมูลและแสดงผลสื่อสารกันผ่าน MQTT Protocol**
+
+**flow diagram part MQTT Protocol **
+
+**HW**    |  NodeMCU or PC or Rpi    |   PC or Rpi        |   NodeMCU or PC |
+
+**flow**  |     Sensor MQTT Pub    |-->|  MQTT Broker   |-->|   MQTT sub    |
 
 
 [LAB1: แนะนำอุปกรณ์และติดตั้งโปรแกรม](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/tree/main/term2_65_EMB62_IoT/LAB01)
@@ -21,7 +24,7 @@ flow diagram part MQTT Protocol
 [เพิ่มเติม:การเก็บค่าลง Database](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/tree/main/term2_65_EMB62_IoT/LAB04)
 
 
-Part1 ML 
+## **Part2: ML **
 
 LAB4: การเตรียม Dataset
   
