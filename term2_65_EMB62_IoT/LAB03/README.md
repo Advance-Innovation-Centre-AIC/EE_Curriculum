@@ -1,15 +1,15 @@
+# **Objectives**
+1. สามารถใช้ Node-red บันทึกข้อมูลที่ได้จาก MQTT ได้
+
+
 # **Outline**
-
-- What is Datalogger  [Docs in Dropbox](https://www.dropbox.com/scl/fi/g5n59iewhn0utgpfatj1a/Data-logger.paper?dl=0&rlkey=fncckdm39xqt15dzi6uz7stuo)
-
-- Writing a Function node on Node-red [Docs in Dropbox](https://www.dropbox.com/scl/fi/1sfnzf0nhb8nps4igs4av/Writing-a-Function-on-Node-red.paper?dl=0&rlkey=rs64kh81zd57a49z4yznilfjw)
-
-- What is Timestamp [Docs in Dropbox](https://www.dropbox.com/scl/fi/1sfnzf0nhb8nps4igs4av/Writing-a-Function-on-Node-red.paper?dl=0&rlkey=rs64kh81zd57a49z4yznilfjw)
-
-
+1. LAB_1_Use_Function_Node_Node-red
+2. LAB_2_Write_csv_file_Node-red
 
 # **Hardware**
 1. Computer
+2. Raspberry Pi
 
 # **Program Tool**
 1. Node-red
+2. Mosquitto server tool
