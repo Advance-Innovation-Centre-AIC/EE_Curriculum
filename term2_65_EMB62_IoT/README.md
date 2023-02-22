@@ -21,7 +21,6 @@ lab แบ่งออกเป็น 2 part คือ
 
 [LAB3. node-red save data to csv file](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/tree/main/term2_65_EMB62_IoT/LAB03)
 
-[เพิ่มเติม:การเก็บค่าลง Database](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/tree/main/term2_65_EMB62_IoT/LAB04)
 
 
 ## **Part2: ML**
