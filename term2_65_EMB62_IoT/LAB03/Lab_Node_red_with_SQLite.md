@@ -1,30 +1,32 @@
-# Lab07 : การเก็บค่า PLC ลง Database
+# **Outline**
+- Overview 
+- ติดตั้ง SQLite modules Node-Re
+- ขั้นตอนการทดลอง
+
+
+# **Overview (เพิ่มเติม) LAB: Use SQLite Database with Node-red**
+
+ เราสามารถนำค่าที่อ่านได้ไปเก็บลง sqlite database ได้ โดยใช้ sqlite node  ในการเข้าถึง sqlite database และตั้งค่าลงพื้นที่ที่ต้องการเก็บข้อมูล
+
+
+![รูปภาพ: sqlite node](https://paper-attachments.dropboxusercontent.com/s_B3016295DF2DA47BC44487210D359337B3B06F4BFA89777BB9C2F7C20A1E2E08_1669257489613_image.png)
+
 
 # **ติดตั้ง SQLite modules Node-Red**
 1. ไปที่ Manage palette >>Install>> search modules >> พิมพ์ “Modbus” >>node-red-sqlite>> install
 2. หลังจากติดตั้งเสร็จ สังเกต แถบทางซ้ายมือ >> Storage >> จะปรากฎ sqlite node สำหรับใช้งาน
 
 
+
 ![รูปภาพ: Install node-red-sqlite](https://paper-attachments.dropboxusercontent.com/s_B3016295DF2DA47BC44487210D359337B3B06F4BFA89777BB9C2F7C20A1E2E08_1669175748274_file.png)
+
+
+
 ![รูปภาพ: sqlite node](https://paper-attachments.dropboxusercontent.com/s_B3016295DF2DA47BC44487210D359337B3B06F4BFA89777BB9C2F7C20A1E2E08_1669175994590_file.png)
 
 
 
-# **LAB: ทดลองเขียน node-red  เก็บข้อมูลที่ได้จาก modbus TCP/IP ลงไฟล์ Database**
-## **วัตถุประสงค์**
-1. เพื่อเรียนรู้วิธีเขียนโปรแกรม Node-red เก็บข้อมูลที่ได้จาก modbus TCP/IP ลงไฟล์ Database
-## **อุปกรณ์ประกอบการทดลอง**
-1. คอมพิวเตอร์
-2. PLC
-3. Raspberry Pi
-
-
-## **ขั้นตอนการทดลอง**
-
-      เราสามารถนำค่าที่อ่านได้ไปเก็บลง sqlite database ได้ โดยใช้ sqlite node  ในการเข้าถึง sqlite database และตั้งค่าลงพื้นที่ที่ต้องการเก็บข้อมูล
-
-
-![รูปภาพ: sqlite node](https://paper-attachments.dropboxusercontent.com/s_B3016295DF2DA47BC44487210D359337B3B06F4BFA89777BB9C2F7C20A1E2E08_1669257489613_image.png)
+# **ขั้นตอนการทดลอง**
 
 1. สร้าง node สำหรับ query ข้อมูลหลังจากที่เราเก็บลง database ไปที่แถบซ้ายมือ >> common >> เลือก inject node
 2. ไปที่แถบซ้ายมือ >> storage >> เลือก sqilte node
@@ -93,7 +95,7 @@ SELECT
 6. ไปที่ fuction node และ โปรแกรมดังนี้
 
 code 
-
+```
     var newMsg={};
     
     var t = new Date();
@@ -109,7 +111,7 @@ code
     
     newMsg.topic = topic;
     return newMsg;
-    
+```   
 
 
 7. ตั้งค่า sqlite file  ตามภาพด้านล่าง เพื่อกำหนด path เก็บข้อมูลที่ต้องการลง database
@@ -122,22 +124,20 @@ code
 8. คลิ๊กที่ Done 
 
 
-
 14. คลิ๊ก Done และ Deploy เพื่อให้ Node-red ทำงานตามโปรแกรมที่ได้ตั้งค่าไว้
-## **บันทึกผลการทดลอง**
-
-…
-…
-…
 
 
-# **แบบฝึกหัด**
-1. **ทดลองเขียน function node  ให้เก็บข้อมูลที่ได้จาก modbus TCP/IP  ลงdatabase**
-2. **ทดลองเขียนโปรแกรมสำหรับอ่านค่าจาก PLC ผ่าน modbus TCP/IP แล้วเก็บค่าลง Database**
-****
+บันทึกผลการทดลอง
 
 ----------
 
-Ref. https://accautomation.ca/node-red-sql-database-log-modbus-logging/
-Ref. https://github.com/mpolinowski/nodered-sqlite
+
+
+
+----------
+----------
+
+[1] Ref. https://accautomation.ca/node-red-sql-database-log-modbus-logging/
+
+[2] Ref. https://github.com/mpolinowski/nodered-sqlite
 
