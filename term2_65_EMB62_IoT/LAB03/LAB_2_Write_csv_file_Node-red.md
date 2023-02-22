@@ -12,13 +12,7 @@
 
 
 1. ไปที่ ไดร์ฟ D ในคอมพิวเตอร์ของนิสิตและสร้าง folder ชื่อ “data_logger” 
-2. คลิ๊กที่ ไฟล์ source  และ copy code ไปลง node-red ของตัวเอง 
-
-
-
-https://www.dropbox.com/s/keq1d4upmtqog0a/createfile%20%284%29.json?dl=0
-
-
+2. คลิ๊กที่ ไฟล์ source >> [createfilecsv.json](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/blob/main/term2_65_EMB62_IoT/LAB03/flows/createfilecsv.json)  และ copy code ไปลง node-red ของตัวเอง 
 
 3. ไปที่ แถบขวามือ>>คลิ๊กที่แถบ ขีดสามขีด>> เลือก import
 
@@ -68,12 +62,7 @@ https://www.dropbox.com/s/keq1d4upmtqog0a/createfile%20%284%29.json?dl=0
 ----------
 
 
-
-
                                                                *รูปภาพ: Use Node-red flow*
-
-
-
 
 
 ----------
@@ -85,12 +74,6 @@ https://www.dropbox.com/s/keq1d4upmtqog0a/createfile%20%284%29.json?dl=0
 ----------
 
                                                    *รูปภาพ: รวมการรันทั้งระบบ*
-
-
-
-
-
-
 
 
 
