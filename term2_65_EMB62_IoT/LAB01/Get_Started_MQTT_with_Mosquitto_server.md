@@ -2,9 +2,9 @@
 
 # **Outline**
 
-- Setting is MQTT Broker
+- [Setting is MQTT Broker](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/blob/main/term2_65_EMB62_IoT/LAB01/Get_Started_MQTT_with_Mosquitto_server.md#setting-is-mqtt-broker)
 
-- Example Test Mosquitto Broker
+- [Example Test Mosquitto Broker](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/blob/main/term2_65_EMB62_IoT/LAB01/Get_Started_MQTT_with_Mosquitto_server.md#Example-Test-Mosquitto-Broker)
 
 
 
