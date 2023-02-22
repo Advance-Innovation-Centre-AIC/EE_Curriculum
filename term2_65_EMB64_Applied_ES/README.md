@@ -14,7 +14,7 @@ LAB2: Basic Digital and Analog I/O of Microcontroller
 LAB5: Communication between 2 Microcontroller via UART
  
 ## **Final part**
-[LAB6: Signal and I2C communication]
+[LAB6: Signal and I2C communication](https://docs.aic-eec.com/embedded-systems/hardware-and-firmware/interfacing-and-communication/lab-i2c-protocol)
 
 LAB7: Communication between 2 Microcontroller via I2C  
 
@@ -26,7 +26,7 @@ LAB10: Interface (Node-red  read sensor via GPIO)
 
 LAB11: Data monitoring (using Node-red dashboard)
 
-LAB12: Data logger (using Node-red)
+[LAB12: Data logger (using Node-red)](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/tree/main/term2_65_EMB62_IoT/LAB03)
 
 
 ## **เกณฑ์การให้คะแนน**

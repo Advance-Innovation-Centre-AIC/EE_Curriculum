@@ -8,7 +8,7 @@
 
 # **LAB1: Send Message between 2 Boards using UART** 
 
-     ทดลองเขียนโปรแกรมส่งข้อความผ่านขา serial ระหว่าง 2 บอร์ด ที่ทำหน้าที่เป็น Master และ Slave
+   ทดลองเขียนโปรแกรมส่งข้อความผ่านขา serial ระหว่าง 2 บอร์ด ที่ทำหน้าที่เป็น Master และ Slave
 
 ## **อุปกรณ์ทดลอง**
 | **Name**               | **Quantity** | **Component**  |
