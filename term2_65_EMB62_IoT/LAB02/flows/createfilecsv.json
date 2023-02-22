@@ -1,0 +1,150 @@
+[
+    {
+        "id": "ea0674e45b393873",
+        "type": "tab",
+        "label": "Createfilecsv",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "1613d9fa71642363",
+        "type": "file",
+        "z": "ea0674e45b393873",
+        "name": "",
+        "filename": "filename",
+        "filenameType": "msg",
+        "appendNewline": true,
+        "createDir": true,
+        "overwriteFile": "true",
+        "encoding": "none",
+        "x": 640,
+        "y": 240,
+        "wires": [
+            [
+                "3319dd3a5a793f70"
+            ]
+        ]
+    },
+    {
+        "id": "d8eae49b1ecf9f51",
+        "type": "inject",
+        "z": "ea0674e45b393873",
+        "name": "Create data_room1 file",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "room1",
+        "payload": "",
+        "payloadType": "date",
+        "x": 180,
+        "y": 180,
+        "wires": [
+            [
+                "36c2d6c5c1f2fa2b"
+            ]
+        ]
+    },
+    {
+        "id": "36c2d6c5c1f2fa2b",
+        "type": "function",
+        "z": "ea0674e45b393873",
+        "name": "",
+        "func": "let filename = \"D:/data_logger/data_\"+msg.topic+\".csv\"\nlet headers = \"Date,Time,Temperature,Hmidity\"\n\nreturn {filename:filename,payload:headers}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 480,
+        "y": 240,
+        "wires": [
+            [
+                "1613d9fa71642363"
+            ]
+        ]
+    },
+    {
+        "id": "3319dd3a5a793f70",
+        "type": "debug",
+        "z": "ea0674e45b393873",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "x": 810,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "b219a6192267a443",
+        "type": "inject",
+        "z": "ea0674e45b393873",
+        "name": "Create data_room2 file",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "room2",
+        "payload": "",
+        "payloadType": "date",
+        "x": 180,
+        "y": 240,
+        "wires": [
+            [
+                "36c2d6c5c1f2fa2b"
+            ]
+        ]
+    },
+    {
+        "id": "53c0bf964947f43b",
+        "type": "inject",
+        "z": "ea0674e45b393873",
+        "name": "Create data_room3 file",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "room3",
+        "payload": "",
+        "payloadType": "date",
+        "x": 180,
+        "y": 300,
+        "wires": [
+            [
+                "36c2d6c5c1f2fa2b"
+            ]
+        ]
+    }
+]
