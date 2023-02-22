@@ -8,13 +8,6 @@ lab แบ่งออกเป็น 2 part คือ
 
 ## **Part1: การใช้ Node-red รับข้อมูลและแสดงผลสื่อสารกันผ่าน MQTT Protocol**
 
-**flow diagram part MQTT Protocol **
-
-**HW**    |  NodeMCU or PC or Rpi    |   PC or Rpi        |   NodeMCU or PC |
-
-**flow**  |     Sensor MQTT Pub    |-->|  MQTT Broker   |-->|   MQTT sub    |
-
-
 [LAB1: แนะนำอุปกรณ์และติดตั้งโปรแกรม](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/tree/main/term2_65_EMB62_IoT/LAB01)
 
 [LAB2: node-red control and deplay data from nodemcu via MQTT protocol](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/tree/main/term2_65_EMB62_IoT/LAB02)
