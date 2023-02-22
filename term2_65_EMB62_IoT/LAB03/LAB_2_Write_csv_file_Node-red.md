@@ -2,14 +2,14 @@
 - Overview
 - ขั้นตอนการทดลอง
 
-# **Overview LAB 2: Write csv file in Node-red**
+# **Overview LAB2: Write csv file in Node-red**
 
   จากการทดลองนี้เป็นการเขียนโปรแกรม node-red นำค่าที่อ่านได้จากการทดลองที่ 1 ไปเก็บลงไฟล์ csv โดยการเพิ่ม write file node และตั้งค่าเก็บไว้ในพื้นที่คอมพิวเตอร์ของเรา      
       
 
 ![fig: write file node](https://paper-attachments.dropboxusercontent.com/s_658EA92A6511F4A6D9DBC5C18FA68E122C12026AE7FD8BD469980BE09BFF5730_1668764340477_image.png)
 
-
+## **ขั้นตอนการทดลอง**
 
 1. ไปที่ ไดร์ฟ D ในคอมพิวเตอร์ของนิสิตและสร้าง folder ชื่อ “data_logger” 
 2. คลิ๊กที่ ไฟล์ source >> [createfilecsv.json](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/blob/main/term2_65_EMB62_IoT/LAB03/flows/createfilecsv.json)  และ copy code ไปลง node-red ของตัวเอง 
