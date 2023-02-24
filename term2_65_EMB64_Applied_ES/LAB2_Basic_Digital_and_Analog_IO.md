@@ -4,6 +4,7 @@
 - จุดประสงค์
 - LAB1: Basic Digital Input/Output
 - LAB2: Lab2: Basic Analog Input
+- Lab3: Basic Analog Output
 
 อธิบายพื้นฐาน Digital กับ  Analog  : [link](https://docs.aic-eec.com/embedded-systems/hardware-and-firmware/lab1-oscilloscope/basic-digital-and-analog-i-o)
 
