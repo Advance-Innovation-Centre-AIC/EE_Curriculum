@@ -1,8 +1,11 @@
-# **EMB-64-****Apply**
+# Overview
+Hardware and Firmware >> [On website AIC](https://docs.aic-eec.com/embedded-systems/hardware-and-firmware)
 
+# Key Concept
+- นิสิตได้ทดลองใช้เครื่องพื้นฐานสำหรับการพัฒนา Hardware และ Firmware
 
+# Outline content
 ## ***Midterm part***
-
 LAB1: แนะนำรายวิชา
 
 [LAB2: Basic Digital and Analog I/O of Microcontroller](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/blob/main/term2_65_EMB64_Applied_ES/LAB_Basic_Digital_and_Analog_IO.md)
