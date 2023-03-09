@@ -1,9 +1,9 @@
-# **EMB-62-IoT**
+# Key Concept
+1.นิสิตได้ทดลองเล่นระบบ IoT โดยใช้ MQTT Protocol บน Hardware จริง
 
-## ***Final part***
+# Overview
 
-## Overview
-
+# ***Final part***
 lab แบ่งออกเป็น 2 part คือ 
 
 ## **Part1: การใช้ Node-red รับข้อมูลและแสดงผลสื่อสารกันผ่าน MQTT Protocol**
