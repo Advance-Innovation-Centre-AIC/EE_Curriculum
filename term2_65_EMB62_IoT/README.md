@@ -1,8 +1,6 @@
 # Key Concept
 1.นิสิตได้ทดลองเล่นระบบ IoT โดยใช้ MQTT Protocol บน Hardware จริง
 
-# Overview
-
 # ***Final part***
 lab แบ่งออกเป็น 2 part คือ 
 
