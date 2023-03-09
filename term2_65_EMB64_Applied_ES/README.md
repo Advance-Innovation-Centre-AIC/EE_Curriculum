@@ -4,7 +4,7 @@ Hardware and Firmware >> [On website AIC](https://docs.aic-eec.com/embedded-syst
 # Key Concept
 - นิสิตได้ทดลองใช้เครื่องพื้นฐานสำหรับการพัฒนา Hardware และ Firmware
 
-# Outline content
+# Content Outlines
 ## ***Midterm part***
 LAB1: แนะนำรายวิชา
 
