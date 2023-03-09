@@ -1,10 +1,18 @@
 # LAB-Basic Digital and  Analog  I/O of Microcontroller
 
-    อธิบายพื้นฐาน Digital กับ  Analog  : link
+# **Outline**
+- จุดประสงค์
+- LAB1: Basic Digital Input/Output
+- LAB2: Lab2: Basic Analog Input
+- Lab3: Basic Analog Output
+
+อธิบายพื้นฐาน Digital กับ  Analog  : [link](https://docs.aic-eec.com/embedded-systems/hardware-and-firmware/lab1-oscilloscope/basic-digital-and-analog-i-o)
+
 # **จุดประสงค์** 
 1. สามารถต่อวงจรสำหรับรับและส่งข้อมูลแบบ Digital และ  Analog  ผ่านขา I/O ของ Embedded board ได้ 
 2. เขียนโปรแกรมรับและส่งข้อมูล Digital และ  Analog  ผ่านขา I/O ของ Embedded board ได้
-# **Lab1-1:** **Basic Digital Input/Output**
+
+# **Lab1: Basic Digital Input/Output**
 
 ทดลองเขียนโปรแกรมรับข้อมูลแบบดิจิตอลจาก button ผ่านขา Input และส่งข้อมูลแบบดิจิตอลเพื่อควบคุม LED ผ่านขา Output ของ Aduino Uno R3
 
@@ -52,7 +60,7 @@
 3. ค้นหาข้อมูลและอธิบายหลักการทำงานของโปรแกรม
 
 
-# **Lab1-2:** **Basic Analog Input**
+# **Lab2: Basic Analog Input**
 
 ทดลองเขียนโปรแกรมรับข้อมูลแบบ  Analog  จากตัวต้านทานปรับค่าได้ (Potentiometer) ผ่านขา input ของ Aduino Uno R3
 
@@ -94,12 +102,15 @@
 1. ขั้นตอนการทดลอง
 2. ภาพการเชื่อมต่อขาระหว่างอุปกรณ์ (Circuit)
 3. ค้นหาข้อมูลและอธิบายหลักการทำงานของโปรแกรม
+
 ----------
-# **Lab1-3**: **Basic Analog Output**
+
+# **Lab3: Basic Analog Output**
 
 ทดลองเขียนโปรแกรมรับข้อมูลแบบ Analog จากตัวต้านทานปรับค่าได้ (Potentiometer) ผ่านขา input และส่งข้อมูลแบบ Analog เพื่อควบคุม LED ผ่านขา Output ของ Arduino Uno R3
 
 ## **อุปกรณ์ทดลอง** 
+
 | **Component**  | **Quantity** |
 | -------------- | ------------ |
 | Arduino Uno R3 | 1            |
@@ -117,8 +128,8 @@
 
 
 
-## code
-    // Lab2-2: Basic  Analog  Output
+### code
+     // Lab3: Basic  Analog  Output
     int sensorPin = A0;   --------------------------------------------------- // connect this pin to potentiometer
     int ledPin = 9;      // connect this pin to external LED
     int sensorValue = 0;  // variable to store the value coming from the sensor
