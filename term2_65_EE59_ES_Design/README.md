@@ -1,3 +1,11 @@
+
+# Overview
+Embedded system design >> [On website AIC](https://docs.aic-eec.com/embedded-systems/embedded-system-design)
+
+# Key Concept 
+1. นิสิตได้ทดลองเล่นกับระบบ Embedded system ที่มาจากงานจริงที่หลากหลาย 
+
+
 # ***Midterm part***
 
 use [IoT Training course](https://github.com/Advance-Innovation-Centre-AIC/IIoT_Training_course/tree/main/IoT_PLC)
