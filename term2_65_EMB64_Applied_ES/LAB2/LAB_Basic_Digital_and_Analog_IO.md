@@ -1,20 +1,5 @@
-# LAB-Basic Digital and  Analog  I/O of Microcontroller
-
-# **Outline**
-- จุดประสงค์
-- LAB1: Basic Digital Input/Output
-- LAB2: Lab2: Basic Analog Input
-- Lab3: Basic Analog Output
-
-อธิบายพื้นฐาน Digital กับ  Analog  : [link](https://docs.aic-eec.com/embedded-systems/hardware-and-firmware/lab1-oscilloscope/basic-digital-and-analog-i-o)
-
-# **จุดประสงค์** 
-1. สามารถต่อวงจรสำหรับรับและส่งข้อมูลแบบ Digital และ  Analog  ผ่านขา I/O ของ Embedded board ได้ 
-2. เขียนโปรแกรมรับและส่งข้อมูล Digital และ  Analog  ผ่านขา I/O ของ Embedded board ได้
-
 # **Lab1: Basic Digital Input/Output**
-
-ทดลองเขียนโปรแกรมรับข้อมูลแบบดิจิตอลจาก button ผ่านขา Input และส่งข้อมูลแบบดิจิตอลเพื่อควบคุม LED ผ่านขา Output ของ Aduino Uno R3
+   ทดลองเขียนโปรแกรมรับข้อมูลแบบดิจิตอลจาก button ผ่านขา Input และส่งข้อมูลแบบดิจิตอลเพื่อควบคุม LED ผ่านขา Output ของ Aduino Uno R3
 
 ## **อุปกรณ์ทดลอง** 
 | Arduino Uno R3 | 1            |
@@ -79,8 +64,6 @@
 ![Photoresistor https://www.arduino.cc/en/Tutorial/BuiltInExamples/ Analog Input](https://paper-attachments.dropboxusercontent.com/s_F84F01DD9F719107CBC0632F893B1C6CC0705268D31C8BB1AAA955EA7694C945_1634400365185_PhotoResistorA0_schem.png)
 
 
-
-
 ## code
     // Lab2-1: Basic  Analog  Input
     int sensorPin = A0;    // connect this pin to potentiometer
@@ -98,6 +81,8 @@
       // stop the program for <sensorValue> milliseconds:
       delay(sensorValue);
     }
+
+
 ## **บันทึกผลการทดลอง**
 1. ขั้นตอนการทดลอง
 2. ภาพการเชื่อมต่อขาระหว่างอุปกรณ์ (Circuit)
