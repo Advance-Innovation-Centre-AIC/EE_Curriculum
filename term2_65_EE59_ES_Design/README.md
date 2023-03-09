@@ -6,11 +6,13 @@ Embedded system design >> [On website AIC](https://docs.aic-eec.com/embedded-sys
 1. นิสิตได้ทดลองเล่นกับระบบ Embedded system ที่มาจากงานจริงที่หลากหลาย 
 
 
-# ***Midterm part***
+# Content Outlines
+
+## ***Midterm part***
 
 use [IoT Training course](https://github.com/Advance-Innovation-Centre-AIC/IIoT_Training_course/tree/main/IoT_PLC)
 
-# ***Final part***
+## ***Final part***
 
 1. BDH IoT platform (ZG)
 [link ZG_hive_smart_lab01](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/tree/main/term2_65_EE59_ES_Design/ZG_hive_smart_lab01)
