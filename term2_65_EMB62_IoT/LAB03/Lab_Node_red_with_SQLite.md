@@ -1,7 +1,9 @@
 # **Outline**
-- Overview 
-- ติดตั้ง SQLite modules Node-Re
-- ขั้นตอนการทดลอง
+- [Overview](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/blob/main/term2_65_EMB62_IoT/LAB03/Lab_Node_red_with_SQLite.md#overview-%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1-lab-use-sqlite-database-with-node-red)
+
+- [ติดตั้ง SQLite modules Node-Red](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/blob/main/term2_65_EMB62_IoT/LAB03/Lab_Node_red_with_SQLite.md#%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-sqlite-modules-node-red)
+
+- [ขั้นตอนการทดลอง](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/blob/main/term2_65_EMB62_IoT/LAB03/Lab_Node_red_with_SQLite.md#%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%94%E0%B8%A5%E0%B8%AD%E0%B8%87)
 
 
 # **Overview (เพิ่มเติม) LAB: Use SQLite Database with Node-red**
