@@ -32,20 +32,6 @@ LAB8: Basic Linux CLI
 [LAB12: Data logger (using Node-red)](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/tree/main/term2_65_EMB62_IoT/LAB03)
 
 
-## **เกณฑ์การให้คะแนน**
-
-- Homework for Quiz [10%]
-- Workshop [30%]
-- Class [10%]
-- Test Midterm [25%] 
-- Test Final [25%]
-
-
-## **เงื่อนไขการเข้าเรียน:**
-
-1. ให้เข้าสายได้ไม่เกิน 10 นาทีเท่านั้น
-2. ต้องมีสมุดจดโน้ตทุกคาบ (เพราะจะมีคะแนนจดบันทึกให้ด้วย)
-3. ทุกคนจะต้องไปสร้างเอกสารใน Google Doc (@go.buu.ac.th) เพื่อสร้าง Technical Learning Report เพื่อใช้บันทึกงานทุกๆคาบโดยละเอียด
 
 
 
