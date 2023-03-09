@@ -2,12 +2,14 @@
    ทดลองเขียนโปรแกรมรับข้อมูลแบบดิจิตอลจาก button ผ่านขา Input และส่งข้อมูลแบบดิจิตอลเพื่อควบคุม LED ผ่านขา Output ของ Aduino Uno R3
 
 ## **อุปกรณ์ทดลอง** 
-| Arduino Uno R3 | 1            |
-| -------------- | ------------ |
-| Pushbutton     | 1            |
+
 | **Component**  | **Quantity** |
-| 220Ω Resistor  | 1            |
-| Red LED        | 1            |
+| -------------- | ------------ |
+| Arduino Uno R3 |    1         |
+|  Pushbutton    |    1         |
+| 220Ω Resistor  |    1         |
+| Red LED        |    1         |
+
 
 ## **Schematic** 
 ![](https://paper-attachments.dropboxusercontent.com/s_F84F01DD9F719107CBC0632F893B1C6CC0705268D31C8BB1AAA955EA7694C945_1634474556222_inputPullupSerial_sch.png)
