@@ -11,7 +11,7 @@ use [IoT Training course](https://github.com/Advance-Innovation-Centre-AIC/IIoT_
 [ZG_hive_smart_lab02](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/tree/main/term2_65_EE59_ES_Design/ZG_hive_smart_lab02)
          
 3. การเทรน AI โดยใช้ข้อมูล Accelerometer จาก Hive smart
-[ZG_hive_smart_lab03](https://docs.google.com/document/d/1syzVW1PUexT4INDyOUskrOI-jjgmZYpYaTEhgFtoLpE/edit?usp=sharing)
+[ZG_hive_smart_lab03](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/tree/main/term2_65_EE59_ES_Design/ZG_hive_smart_lab03)
 
 4. BDH AI (VAM) link->[docs](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/blob/main/term2_65_EE59_ES_Design/docs/buuMobilityV1-3.pdf)
 5. การอ่านตัวอักษรจากรูปภาพ และการอ่าน QR code (LAB 6.1 OCR) 
