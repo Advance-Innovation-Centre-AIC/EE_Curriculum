@@ -1,11 +1,5 @@
 # LAB: Node-red with MQTT Protocol
 
-## **Objectives**
-
-1. สามารถใช้งาน MQTT บน Node-red เป็น subscribe และ publish ได้
-2. สามารถควบคุม LED บนบอร์ด NodeMCU ผ่าน MQTT บน Node-red ได้ 
-
-
 ## **Outline**
 
 1. [LAB_1_Use_MQTT_Subscribe_Node-red](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/blob/main/term2_65_EMB62_IoT/LAB02/LAB_1_Use_MQTT_Subscribe_Node-red.md)
@@ -14,6 +8,11 @@
 
 3. [LAB_3_Use_MQTT_Pubilsh_ControlESP8266_Node-Red_UI](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/blob/main/term2_65_EMB62_IoT/LAB02/LAB_3_Use_MQTT_Pubilsh_ControlESP8266_Node-Red_UI.md)
 
+
+## **Objectives**
+
+1. สามารถใช้งาน MQTT บน Node-red เป็น subscribe และ publish ได้
+2. สามารถควบคุม LED บนบอร์ด NodeMCU ผ่าน MQTT บน Node-red ได้ 
 
 ## **Hardware**
 
