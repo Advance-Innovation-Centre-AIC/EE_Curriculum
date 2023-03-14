@@ -1,20 +1,6 @@
-# LAB10: Node-red with Raspberry Pi GPIO
-
-# **จุดประสงค์**
-1. สามารถใช้ Node-red ควบคุมการทำงาน GPIO pin ของ raspberry Pi ตามที่กำหนดได้ 
-# **อุปกรณ์ทดลอง**
-1. Computer 
-2. RaspberryPi 
-3. ชุดเซนเซอร์ Crow Pi
-# **โปรแกรมที่เกี่ยวข้อง**
-1. Node-red
-2. VNC Viewer หรือ โปรแกรม Remote อื่น ๆ 
-
-
 # **LAB1: Use Node-red Control GPIO pin**
 
 ทดลองใช้ node-red ควบคุม LED ผ่าน GPIO pin ของ raspberry pi 
-
 
 ## **ขั้นตอนการทดลอง**
 1. เปิดโปรแกรม node-red บน Raspi 

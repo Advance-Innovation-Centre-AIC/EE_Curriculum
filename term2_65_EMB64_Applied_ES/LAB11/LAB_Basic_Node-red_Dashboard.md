@@ -1,14 +1,3 @@
-# LAB11: Basic Node-red Dashboard
-
-# **จุดประสงค์**
-1. สามารถแสดงข้อมูลบน Dashboard ของ Node-red ตามที่กำหนดได้
-
-# **อุปกรณ์ทดลอง**
-1. Computer 
-
-# **โปรแกรมที่เกี่ยวข้อง**
-1. Node-red
-
 # **LAB1: Create tabs and Groups on Dashboard** 
 
 การทดลองนี้กำหนดให้ทดลองสร้างหน้า Dashboard โดยมีการจัด layout แบ่งเป็น 2 Groups 
