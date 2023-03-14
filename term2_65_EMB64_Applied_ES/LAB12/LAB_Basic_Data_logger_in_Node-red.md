@@ -1,3 +1,6 @@
+ข้อมูลเพิ่มเติมเรื่อง Data logger >> [link](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/blob/main/term2_65_EMB62_IoT/LAB03/docs/Data_logger.md) 
+ข้อมูลเพิ่มเติมเรื่อง การเขียน Function node >> [link](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/blob/main/term2_65_EMB62_IoT/LAB03/docs/Writing_a_Function_on_Node-red.md)
+
 # **LAB 1: Create and Write csv file without header**
 
 จากการทดลองนี้เป็นการเขียนโปรแกรม node-red นำค่าไปเก็บลงไฟล์ csv โดยการเพิ่ม write file node และตั้งค่าให้สร้างไฟล์เก็บไว้ในพื้นที่ที่เราคำหนด          
