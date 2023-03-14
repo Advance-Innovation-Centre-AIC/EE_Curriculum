@@ -6,7 +6,7 @@
 | **Component**  | **Quantity** |
 | -------------- | ------------ |
 | Arduino Uno R3 |    1         |
-|  Pushbutton    |    1         |
+| Pushbutton     |    1         |
 | 220Ω Resistor  |    1         |
 | Red LED        |    1         |
 
