@@ -27,7 +27,7 @@ LAB8: Basic Linux CLI
 
 [LAB10: Interface (Node-red  read sensor via GPIO)](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/tree/main/term2_65_EMB64_Applied_ES/LAB10)
 
-[LAB11: Data monitoring (using Node-red dashboard)](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/blob/main/term2_65_EMB64_Applied_ES/LAB_Basic_Node-red_Dashboard.md)
+[LAB11: Data monitoring (using Node-red dashboard)](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/tree/main/term2_65_EMB64_Applied_ES/LAB11)
 
 [LAB12: Data logger (using Node-red)](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/tree/main/term2_65_EMB64_Applied_ES/LAB12)
 
