@@ -13,11 +13,6 @@
 1. สามารถใช้งาน MQTT บน Node-red เป็น subscribe และ publish ได้
 2. สามารถควบคุม LED บนบอร์ด NodeMCU ผ่าน MQTT บน Node-red ได้ 
 
-## **Objectives**
-
-1. สามารถใช้งาน MQTT บน Node-red เป็น subscribe และ publish ได้
-2. สามารถควบคุม LED บนบอร์ด NodeMCU ผ่าน MQTT บน Node-red ได้ 
-
 ## **Hardware**
 
 1. NodeMCU
