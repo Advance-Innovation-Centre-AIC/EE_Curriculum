@@ -25,5 +25,5 @@ use [IoT Training course](https://github.com/Advance-Innovation-Centre-AIC/IIoT_
 
 4. BDH AI (VAM) link->[docs](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/blob/main/term2_65_EE59_ES_Design/docs/buuMobilityV1-3.pdf)
 5. การอ่านตัวอักษรจากรูปภาพ และการอ่าน QR code (LAB 6.1 OCR) 
-6. การเรียกใช้ AI model ที่มีใน VAM mobility (LAB 5.2 Human detection ผ่านกล้อง face recog)
+6. การเรียกใช้ AI model ที่มีใน VAM mobility (LAB 3.2 Human detection)
 
