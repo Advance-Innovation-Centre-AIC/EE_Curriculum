@@ -8,7 +8,7 @@ Hardware and Firmware >> [On website AIC](https://docs.aic-eec.com/embedded-syst
 ## ***Midterm part***
 LAB1: แนะนำรายวิชา
 
-[LAB2: Basic Digital and Analog I/O of Microcontroller](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/blob/main/term2_65_EMB64_Applied_ES/LAB_Basic_Digital_and_Analog_IO.md)
+[LAB2: Basic Digital and Analog I/O of Microcontroller](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/tree/main/term2_65_EMB64_Applied_ES/LAB2#lab-basic-digital-and--analog--io-of-microcontroller)
 
 [LAB3: Basic measurement (Waveform)](https://docs.aic-eec.com/embedded-systems/hardware-and-firmware/lab1-oscilloscope/waveform)
 
