@@ -23,7 +23,7 @@ use [IoT Training course](https://github.com/Advance-Innovation-Centre-AIC/IIoT_
 3. การเทรน AI โดยใช้ข้อมูล Accelerometer จาก Hive smart
 [ZG_hive_smart_lab03](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/tree/main/term2_65_EE59_ES_Design/ZG_hive_smart_lab03)
 
-4. BDH AI (VAM) link->[docs](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/blob/main/term2_65_EE59_ES_Design/docs/buuMobilityV1-3.pdf)
-5. การอ่านตัวอักษรจากรูปภาพ และการอ่าน QR code (LAB 6.1 OCR) 
-6. การเรียกใช้ AI model ที่มีใน VAM mobility (LAB 3.2 Human detection)
+4. BDH AI (VAM) link->[Intro VAMSTACK Platform](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/blob/ef2eb4dbbe1338127184de767c92c0ec480bc947/term2_65_EE59_ES_Design/docs/Intro_VAMSTACK_Platform.pdf)
+5. การอ่านตัวอักษรจากรูปภาพ และการอ่าน QR code [LAB 6.1 OCR](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/blob/main/term2_65_EE59_ES_Design/docs/buuMobilityV1-3.pdf)
+6. การเรียกใช้ AI model ที่มีใน VAM mobility [LAB 3.2 Human detection](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/blob/main/term2_65_EE59_ES_Design/docs/buuMobilityV1-3.pdf)
 
