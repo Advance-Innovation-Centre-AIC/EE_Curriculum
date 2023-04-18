@@ -14,7 +14,7 @@ lab แบ่งออกเป็น 2 part คือ
 
 [LAB1: แนะนำอุปกรณ์และติดตั้งโปรแกรม](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/tree/main/term2_65_EMB62_IoT/LAB01)
 
-[LAB2: node-red control and deplay data from nodemcu via MQTT protocol](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/tree/main/term2_65_EMB62_IoT/LAB02)
+[LAB2: node-red control and display data from NodeMCU via MQTT protocol](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/tree/main/term2_65_EMB62_IoT/LAB02)
 
 [LAB3. node-red save data to csv file](https://github.com/Advance-Innovation-Centre-AIC/EE_Curriculum/tree/main/term2_65_EMB62_IoT/LAB03)
 
